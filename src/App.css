@@ -1,3 +1,7 @@
 main {
   min-height: 80vh;
 }
+
+.name {
+  text-decoration: none;
+}
